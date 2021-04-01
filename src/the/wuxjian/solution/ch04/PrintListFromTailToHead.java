@@ -3,7 +3,6 @@ package the.wuxjian.solution.ch04;
 import the.wuxjian.solution.common.ListNode;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 /**
